@@ -14,7 +14,11 @@
 
 
 
+
 ![Kayke GitHub stats](https://github-readme-stats.vercel.app/api?username=kayke-ti&show_icons=true&theme=aura&count_private=true)
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayke-ti&theme=aura&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
