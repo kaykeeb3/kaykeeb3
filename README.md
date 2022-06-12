@@ -32,3 +32,11 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 Café é minha segunda bebida mais proveniente, A minha profissão ☕
 
  “A genialidade é 1% inspiração e 99% transpiração.” – Thomas Edson  💻 ☕ 📚 👨‍💻!
+ 
+ 
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
