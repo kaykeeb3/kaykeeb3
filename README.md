@@ -4,7 +4,7 @@
 
 #Amo Progamação 👨‍💻 ☕
 
-#Desenvolvedor Full stack 😎
+#Desenvolvedor Jr Full stack 😎
 
 #Sempre em  constante evolução, estudar 📚
 
