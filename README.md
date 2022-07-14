@@ -22,8 +22,8 @@
 
 
 
-![Kayke GitHub stats](https://github-readme-stats.vercel.app/api?username=kayke-Ti&show_icons=true&theme=react&count_private=true)
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayke-Ti&theme=react&hide_border=false&&layout=compact"/>
+![Kayke GitHub stats](https://github-readme-stats.vercel.app/api?username=kayke-Ti&show_icons=true&theme=vue-dark&count_private=true)
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayke-Ti&theme=vue-dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
