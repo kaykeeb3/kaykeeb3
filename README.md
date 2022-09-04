@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kayke Barbosa  🖐️
 
-#Seja bem  vindo ao meu perfil do Github😊
+#Seja bem  vindo ao meu perfil do Github 😊
 
 #Amo Progamação 👨‍💻 ☕
 
