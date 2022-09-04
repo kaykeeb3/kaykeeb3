@@ -43,7 +43,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.✌😀
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação! ✌😀
 
 Café é minha segunda bebida mais proveniente, A minha profissão ☕
 
