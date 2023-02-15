@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://kayke-home-page.vercel.app/https://kayke-home-page.vercel.app/](https://kayke-home-page.vercel.app/https://kayke-home-page.vercel.app/)
+- 👨‍💻 All of my projects are available at https://kayke-home-page.vercel.app/
 
 - 📝 I regularly write articles on [https://instagram.com/kaykee_bl?igshid=ZDdkNTZiNTM=](https://instagram.com/kaykee_bl?igshid=ZDdkNTZiNTM=)
 
