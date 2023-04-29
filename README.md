@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Kayke Barbosa 
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de desenvolvimento 
+- 🔭 Apaixonado pela tecnologia
+- 🌱 Estudante de desenvolvimento web
 - 📍 Forquilha - CE
 - 🙋‍♂️ 18y
 - 👨‍💻 https://kayke-home-page.vercel.app/
