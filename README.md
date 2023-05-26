@@ -5,7 +5,7 @@
 - 🌱 Estudante de desenvolvimento web
 - 📍 Forquilha - CE
 - 🙋‍♂️ 18y
-- 👨‍💻 https://kayke-home-page.vercel.app/
+- 👨‍💻 https://kaykedev.vercel.app/
 
 <div align="center">
   <a href="https://github.com/Kayke-Ti">
