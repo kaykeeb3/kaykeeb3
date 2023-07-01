@@ -6,7 +6,7 @@
 - 🌱 Estudante de desenvolvimento web
 - 👨‍🎓 Universitário | ADS 
 - 📍 Forquilha - CE
-- 🙋‍♂️ 18y
+- 🧏‍♂️ 18y
 - 👨‍💻 <a class="text-decoration: none;">https://kaykedev.vercel.app/</a>
 
 <div align="center">
