@@ -11,9 +11,10 @@
 
 <div align="center">
   <a href="https://github.com/Kayke-Ti">
-    
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kayke github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)
+
 </div>
  
 <div style="display: inline_block;"><br>
