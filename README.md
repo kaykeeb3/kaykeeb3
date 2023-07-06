@@ -6,7 +6,7 @@
 <div align="center">
  
 
-![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)<br>
 ![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=dark&hide=css,html,scss,php,ejs,cs)
 </div>
  <div align="center">
