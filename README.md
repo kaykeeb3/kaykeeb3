@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="opacity: 65%;">Olá, Eu sou o Kayke Barbosa</h1>
+  <h2 style="opacity: 65%;">Hello, I'm Kayke Barbosa</h2>
 </div> 
 
 
@@ -10,7 +10,7 @@
 ![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=dark&hide=css,html,scss,php,ejs,cs)
 </div>
  <div align="center">
-  <h2 style="opacity: 65%;">Tecnologias que mais utilizo:</h2>
+  <h2 style="opacity: 65%;">Technologies I use most:</h2>
  </div>
 
 <div style="display: inline_block;">
