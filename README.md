@@ -7,7 +7,7 @@
  
 
 ![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)<br>
-![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=dark&hide=css,html,scss,php,ejs,cs)
+![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=dark&hide=css,html,scss,php,ejs,cs,javascript)
 </div>
  <div align="center">
   <h2 style="opacity: 65%;">Technologies I use most:</h2>
