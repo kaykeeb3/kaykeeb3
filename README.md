@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="opacity: 65%;">Hey Dev, welcome to my Github profile</h2>
+  <h2 style="opacity: 65%;"><em>Olá, Seja-bem vindo(a) ao meu perfil do Github</em></h2>
 </div> 
 
 
@@ -10,7 +10,7 @@
 ![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=rose_pine&hide=css,html,scss,php,ejs,cs,javascript)
 </div>
  <div align="center">
-  <h2 style="opacity: 65%;">Technologies I use most:</h2>
+  <h2 style="opacity: 65%;"><em>Tecnologias que mais utilizo:</em></h2>
  </div>
 
 <div style="display: inline_block;">
