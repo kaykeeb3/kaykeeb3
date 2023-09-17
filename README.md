@@ -31,11 +31,6 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
 
 <br/>
 
-<div align="center">
-
-![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=rose_pine)<br>
-![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=rose_pine&hide=css,html,scss,php,ejs,cs,javascript)
-</div>
  <div align="center">
   <h2 style="opacity: 65%;"><em>Tecnologias que mais utilizo:</em></h2>
  </div>
@@ -50,10 +45,17 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
 
 #### 📧 <em>Contatos<em>
 <div align="center"> 
-  <a href="https://instagram.com/kaykee_bl?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "kaykeloiola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kayke-barbosa-15a96023a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href="https://instagram.com/kaykee_bl?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "kaykeloiola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kayke-barbosa-15a96023a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br/>
+
+<div align="center">
+
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=rose_pine)<br>
+![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=rose_pine&hide=css,html,scss,php,ejs,cs,javascript,sass,ruby,python,go)
+</div>
+
 
 
