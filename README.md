@@ -6,10 +6,11 @@
 
 <p align="center">
  <em>
-Desenvolvedor Full-stack apaixonado pelo ecossistema JavaScript
-Atualmente cursando o 2° ano de Análise e Desenvolvimento de Sistemas na universidade
-Formação técnica em Informática
-Apaixonado por tecnologia e entusiasta da Inteligência Artificial
+Desenvolvedor Full-stack especializado no ecossistema JavaScript
+Experiência sólida em construir aplicações web robustas e escaláveis
+Graduado-se em Análise Desenvolvimento de Sistemas com foco em tecnologias web
+Contribuinte ativo em projetos open source relacionados ao JavaScript
+Apaixonado por desafios técnicos e sempre em busca de aprendizado contínuo no mundo da programação.
  </em>
 </p>
 
