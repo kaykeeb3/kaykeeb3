@@ -18,14 +18,14 @@ Apaixonado por desafios técnicos e sempre em busca de aprendizado contínuo no 
 
 <p align="center">
  <em>
-Desenvolvimento de websites responsivos
-Criação de APIs REST
-Desenvolvimento de aplicativos móveis
-Automação de scripts
-Experiência em desenvolvimento Back-end com Node.js e PHP
-Proficiência em desenvolvimento Front-end com React e Next.js
-Aplicação de metodologias ágeis
-Conhecimento em Inteligência Artificial, incluindo o uso de API da OpenAI e Chat-GPT
+Especializado em desenvolvimento de websites responsivos
+Experiência sólida na criação de APIs REST
+Proficiente no desenvolvimento de aplicativos móveis
+Habilidade comprovada em automação de scripts
+Experiente em desenvolvimento Back-end com Node.js e PHP
+Especialista no desenvolvimento Front-end com React e Next.js
+Aplicação diligente de metodologias ágeis
+Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Chat-GPT
  </em>
 </p>
 
