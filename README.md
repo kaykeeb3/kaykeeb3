@@ -53,7 +53,7 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
 <div align="center">
 
 ![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=rose_pine)<br>
-![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=rose_pine&hide=css,html,scss,php,ejs,cs,javascript,sass,ruby,python,typescript,hack,go)
+![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=rose_pine&hide=css,html,scss,php,ejs,cs,javascript,sass,ruby,python,hack,go,shell)
 </div>
 
 
