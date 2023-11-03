@@ -4,7 +4,7 @@
 
 #### 🙋‍♂️ <em>Sobre mim</em>
 
-<p align="center">
+<p align="left">
  <em>
 Desenvolvedor Full-stack especializado no ecossistema JavaScript
 Experiência sólida em construir aplicações web robustas e escaláveis
@@ -15,7 +15,7 @@ Contribuinte ativo em projetos open source Apaixonado por desafios técnicos e s
 
 #### ⚡ <em>Habilidades</em>
 
-<p align="center">
+<p align="left">
  <em>
 Especializado em desenvolvimento de websites responsivos
 Experiência sólida na criação de APIs REST
@@ -55,6 +55,5 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
 ![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=rose_pine)<br>
 ![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=rose_pine&hide=css,html,scss,php,ejs,cs,javascript,sass,ruby,python,hack,go,shell)
 </div>
-
 
 
