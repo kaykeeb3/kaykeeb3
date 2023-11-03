@@ -34,12 +34,26 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
   <h2 style="opacity: 65%;"><em>Tecnologias que mais utilizo:</em></h2>
  </div>
 
-<div style="display: inline_block;">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,php,go,python,java,postgres,sqlite,prisma,mysql,supabase,tailwind,styledcomponents,cs,css,html,sass,git,bootstrap,vite,vscode" />
-  </a>
-</p>
+<div align="center"> 
+  <div style="display: inline_block">
+   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Typescript  icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img 
+   align="center" alt="Nest.js icon"
+   height="30" width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+   <img 
+   align="center" alt="Node.js icon" height="30" width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img 
+   align="center" alt="React.js icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+   <img align="center" alt="GitHub icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img 
+  align="center" alt="Git" height="30"   width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ </div>
 </div>
 
 #### 📧 <em>Contatos<em>
@@ -53,7 +67,4 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
 <div align="center">
 
 ![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=rose_pine)<br>
-![Kayke-Ti Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&show_icons=true&theme=rose_pine&hide=css,html,scss,php,ejs,cs,javascript,sass,ruby,python,hack,go,shell)
 </div>
-
-
