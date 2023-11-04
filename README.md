@@ -61,10 +61,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <a href = "kaykeloiola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kayke-barbosa-15a96023a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br/>
+
+<br>
+
 
 <div align="center">
+  
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)
+<br>
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=javascript,html,css,sass,ejs,scss,php,go,ruby,python,hack,shell)
 
-![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)<br>
-![Kayke-Ti Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&hide=javascript,html,css,sass,ejs,scss,php,go,ruby,python,hack,shell))
 </div>
