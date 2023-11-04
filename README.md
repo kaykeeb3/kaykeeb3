@@ -69,6 +69,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
   
 ![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)
 <br>
-![Kayke-Ti Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=javascript,html,css,sass,ejs,scss,php,go,ruby,python,hack,shell)
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=javascript,html,css,sass,ejs,scss,php,python,hack,shell)
 
 </div>
