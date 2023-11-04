@@ -66,4 +66,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <div align="center">
 
 ![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)<br>
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&hide=javascript,html,css,sass,ejs,scss,php,go,ruby,python,hack,shell))
 </div>
