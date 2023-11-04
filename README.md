@@ -24,7 +24,7 @@ Habilidade comprovada em automação de scripts
 Experiente em desenvolvimento Back-end com Node.js e PHP
 Especialista no desenvolvimento Front-end com React e Next.js
 Aplicação diligente de metodologias ágeis
-Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Chat-GPT
+Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Modelos-GPT
  </em>
 </p>
 
