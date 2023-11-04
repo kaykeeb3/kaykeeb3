@@ -49,10 +49,9 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img 
    align="center" alt="React.js icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="GitHub icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img 
-  align="center" alt="Git" height="30"   width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   <img align="center" alt="PostgreSQL icon" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img align="center" alt="Git icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  </div>
 </div>
 
@@ -66,5 +65,5 @@ Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Cha
 
 <div align="center">
 
-![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=rose_pine)<br>
+![Kayke-Ti Status](https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark)<br>
 </div>
