@@ -6,7 +6,7 @@
 
 <p align="left">
  <em>
-Desenvolvedor Full-stack especializado no ecossistema JavaScript
+Desenvolvedor Back-end especializado no ecossistema JavaScript
 Experiência sólida em construir aplicações web robustas e escaláveis
 Graduado-se em Análise Desenvolvimento de Sistemas com foco em tecnologias web
 Contribuinte ativo em projetos open source Apaixonado por desafios técnicos e sempre em busca de aprendizado contínuo no mundo da programação.
