@@ -13,9 +13,12 @@ Desenvolvedor Back-end especializado no ecossistema JavaScript, com foco em Node
 - Desenvolvimento Back-end com Node.js, Nest.js, Laravel, e PHP
 - Desenvolvimento Front-end com React e Next.js
 - Aplicação diligente de metodologias ágeis
-- Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Modelos-GPT.
+- Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Modelos-GPT
 - Programação em Python
 - Banco de dados PostgreSQL e MySQL
+- Desenvolvimento em Typescript
+- Controle de versão com Git
+- Computação em nuvem AWS
 
 ### 🛠️ Tecnologias que mais utilizo
 
@@ -26,8 +29,11 @@ Desenvolvedor Back-end especializado no ecossistema JavaScript, com foco em Node
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="40">
 </div>
 
 ### 📧 Contatos
