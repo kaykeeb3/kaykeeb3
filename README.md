@@ -47,7 +47,7 @@ Desenvolvedor Back-end especializado no ecossistema JavaScript, com foco em Node
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=transparent&hide=javascript,html,css,sass,ejs,scss,php,python,hack,shell">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=javascript,html,css,sass,ejs,scss,php,python,hack,shell">
 </div>
