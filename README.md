@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><em>Olá, seja bem-vindo ao meu perfil do GitHub</em></h2>
+  <h2>Olá, seja bem-vindo ao meu perfil do GitHub</h2>
 </div>
 
 ### 👨‍💻 Sobre Mim
