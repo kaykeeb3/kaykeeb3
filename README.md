@@ -2,12 +2,10 @@
   <h2><em>Olá, seja bem-vindo ao meu perfil do GitHub</em></h2>
 </div>
 
-### 🙋‍♂️ Sobre Mim
-
+## 👨‍💻 Sobre Mim
 Desenvolvedor Back-end especializado no ecossistema JavaScript, com foco em Node.js, Nest.js, Laravel, PHP e Python. Experiência sólida em construir aplicações web robustas e escaláveis. Graduado em Análise e Desenvolvimento de Sistemas, com ênfase em tecnologias web. Contribuinte ativo em projetos open source. Apaixonado por desafios técnicos e sempre em busca de aprendizado contínuo no mundo da programação.
 
-### ⚡ Habilidades
-
+## 👾 Habilidades
 - Desenvolvimento de websites responsivos
 - Criação de APIs REST
 - Desenvolvimento Back-end com Node.js, Nest.js, Laravel, e PHP
