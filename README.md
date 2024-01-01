@@ -52,5 +52,5 @@ height="30" width="40">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=gotham">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=gotham&hide=javascript,html,css,sass,ejs,scss,php,python,hack,shell">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=gotham&hide=html,css,sass,Typescript,ejs,scss,php,python,hack,shell">
 </div>
