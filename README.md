@@ -50,7 +50,7 @@ height="30" width="40">
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=gotham&hide=html,css,sass,javascript,ejs,scss,php,python,hack,shell">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=html,css,sass,javascript,ejs,scss,php,python,hack,shell">
 </div>
