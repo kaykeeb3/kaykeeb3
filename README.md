@@ -4,14 +4,14 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-end especializado no ecossistema JavaScript, com foco em Node.js, Nest.js, Laravel e PHP. Tenho uma experiência sólida na construção de aplicações web robustas e escaláveis. Sou graduado em Análise e Desenvolvimento de Sistemas, com ênfase em tecnologias web. Contribuo ativamente para projetos open source, sendo apaixonado por desafios técnicos e sempre buscando aprendizado contínuo no mundo da programação.
+Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks como Nest.js e Laravel. Experiência comprovada na criação de aplicações web robustas e escaláveis. Graduado em Análise e Desenvolvimento de Sistemas, com ênfase em tecnologias web. Ativamente envolvido em projetos open source, apaixonado por desafios técnicos e dedicado à constante evolução na programação. Busco oportunidades para aprimorar habilidades e contribuir significativamente para o sucesso de projetos inovadores.
 
 ### 👾 Habilidades
 
-- Desenvolvimento de websites responsivos
 - Criação de APIs REST
 - Desenvolvimento Back-end com Node.js, Nest.js, Laravel e PHP
 - Desenvolvimento Front-end com React e Next.js
+- Desenvolvimento de websites responsivos
 - Aplicação diligente de metodologias ágeis
 - Conhecimento em Inteligência Artificial, incluindo o uso da API da OpenAI e Modelos-GPT
 - Programação em Python
