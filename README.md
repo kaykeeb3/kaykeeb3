@@ -52,7 +52,7 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=nord">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=github_dark&hide=html,css,sass,javascript,ejs,scss,php,python,hack,shell">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=nord&hide=html,css,sass,javascript,ejs,scss,php,python,hack,shell">
 </div>
