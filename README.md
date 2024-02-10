@@ -18,21 +18,28 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks 
 - Banco de dados PostgreSQL e MySQL
 - Desenvolvimento em Typescript
 - Controle de versão com Git
-- Computação em nuvem AWS
+- Computação em nuvem AWS e Railway
 
 ### 🛠️ Tecnologias que mais utilizo
 
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="40">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" 
+height="30" width="40">        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+height="30" width="40">
 </div>
 
 ### 📧 Contatos
@@ -54,5 +61,5 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=html,css,sass,ejs,scss,hack,ruby,c,java,shell">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=javasript,html,css,sass,ejs,scss,hack,ruby,c,shell">
 </div>
