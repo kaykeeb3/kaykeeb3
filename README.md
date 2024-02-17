@@ -1,17 +1,16 @@
-
 <div align="center">
   <h2>Olá, seja bem-vindo ao meu perfil do GitHub 👋</h2>
 </div>
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks como Nest.js e Laravel. Experiência comprovada na criação de aplicações web robustas e escaláveis. Graduado em Análise e Desenvolvimento de Sistemas pela Universidade UNOPAR, com ênfase em tecnologias web. Ativamente envolvido em projetos open source, apaixonado por desafios técnicos e dedicado à constante evolução na programação. Busco oportunidades para aprimorar habilidades e contribuir significativamente para o sucesso de projetos inovadores.
+Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando frameworks como Nest.js e Laravel. Com mais de 1 ano de experiência, já contribuí em diversos projetos de sucesso. Sou apaixonado por resolver problemas e sempre busco aprender algo novo. Estou em constante evolução na programação e adoro compartilhar conhecimento com a comunidade de desenvolvedores.
 
 ### 🎓 Educação
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade UNOPAR
-- Técnico em Informática pela Instituição de Ensino Profissionalizante do Estado do Ceará
-- Certificação do curso de Programação | Matemática Computacional em (C, C++, C#, Java, Python e JavaScript) pela Instituição de Ensino Superior UNINTA e INSTITUTO POLITÉCNICO DE TOMAR (Portugal)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, Universidade UNOPAR (Conclusão: 2023 - 2025)
+- Curso Técnico em Informática, Instituição de Ensino Profissionalizante do Estado do Ceará (Conclusão: 2022)
+- Curso de Especialização em Programação e Matemática Computacional, Instituto de Tecnologia e Educação: UNINTA & INSTITUTO POLITÉCNICO DE TOMAR (Portugal) (Conclusão: 2022)
 
 ### 👾 Habilidades
 
@@ -32,12 +31,11 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks 
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="30" width="40">
@@ -51,6 +49,12 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="30" width="40">
 </div>
+
+### 🚀 Projetos Destacados
+
+- **Sistema de Gerenciamento Escolar (Node.js, Express, PostgreSQL, Prisma, Express, MySQL, Jest, React, Tailwind CSS e Railway)**
+  - Descrição: O SIBI é uma solução administrativa projetada para oferecer um gerenciamento abrangente e eficiente de bibliotecas de maneira virtual. Atualmente, na sua versão 2.0 inicial, o SIBI foi criado com o propósito de resolver        desafios comuns encontrados nesse contexto e foi desenvolvido como um projeto voluntário em prol da comunidade escolar. Seu principal objetivo é fornecer uma experiência de uso que seja fácil, segura e prática, visando facilitar o        acesso e a gestão dos recursos bibliográficos de forma eficaz e intuitiva.
+  - [Link do Repositório](https://github.com/Kayke-Ti/SIBI_V2)
 
 ### 📧 Contatos
 
@@ -71,5 +75,5 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js e PHP) e frameworks 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kayke-Ti&show_icons=true&theme=dark">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=javasript,html,css,sass,ejs,scss,hack,ruby,c,shell">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Ti&layout=compact&theme=dark&hide=html,css,sass,ejs,scss,hack,ruby,c,shell,typescript">
 </div>
