@@ -1,4 +1,3 @@
-
 <div align="center">
   <h2>Olá, seja bem-vindo(a) ao meu perfil do GitHub 👋</h2>
 </div>
@@ -56,7 +55,7 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando f
 
 - **Sistema de Gerenciamento Escolar (Node.js, Express, PostgreSQL, Prisma, Express, MySQL, Jest, React, Tailwind CSS e Railway)**
   
-  - Descrição: O SIBI é uma solução administrativa projetada para oferecer um gerenciamento abrangente e eficiente de bibliotecas de maneira virtual. Atualmente, na sua versão 2.0 inicial, o SIBI foi criado com o propósito de resolver        desafios comuns encontrados nesse contexto e foi desenvolvido como um projeto voluntário em prol da comunidade escolar. Seu principal objetivo é fornecer uma experiência de uso que seja fácil, segura e prática, visando facilitar o        acesso e a gestão dos recursos bibliográficos de forma eficaz e intuitiva.
+  - Descrição: O SIBI é uma solução administrativa projetada para oferecer um gerenciamento abrangente e eficiente de bibliotecas de maneira virtual. Atualmente, na sua versão 2.0 inicial, o SIBI foi criado com o propósito de resolver desafios comuns encontrados nesse contexto e foi desenvolvido como um projeto voluntário em prol da comunidade escolar. Seu principal objetivo é fornecer uma experiência de uso que seja fácil, segura e prática, visando facilitar o acesso e a gestão dos recursos bibliográficos de forma eficaz e intuitiva.
     
   - [Link do Repositório](https://github.com/Kayke-Ti/SIBI_V2)
  
