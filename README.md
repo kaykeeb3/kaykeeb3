@@ -42,6 +42,7 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando f
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="30" width="40">
