@@ -63,7 +63,7 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando f
 
   - Descrição: A automação foi aplicada para gerenciar as respostas das requisições em uma aplicação legada que utiliza uma API REST. Originalmente, esta aplicação, desenvolvida em PHP e Javascript, buscava um serviço externo através de uma URL independente das requisições da API. Atualmente, este serviço foi migrado para uma arquitetura baseada em Node.js, Express e Axios. A própria automação foi integrada diretamente às requisições da nova aplicação interna. Este processo reduz significativamente os custos operacionais associados ao processamento de dados no banco de dados externo (na nuvem). Anteriormente, as consultas eram realizadas diretamente pela nova aplicação frontend, desenvolvida em React.js e Tailwind CSS. O principal objetivo dessa iniciativa é otimizar os custos e o tempo envolvido na execução de requisições e consultas ao banco de dados, aumentando assim a eficiência e eliminando a dependência de serviços externos.
  
- - [Link do Repositório](https://github.com/Kayke-Ti/SIBI_V2/tree/main/api)
+  - [Link do Repositório](https://github.com/Kayke-Ti/SIBI_V2/tree/main/api)
 
  
 ### 📧 Contatos
