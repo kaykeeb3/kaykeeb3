@@ -53,7 +53,7 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando f
 
 ### 🚀 Projetos Destacados
 
-- **Sistema de Gerenciamento Escolar (Node.js, Express, Prisma, Express, MySQL, Jest, React, Tailwind CSS e Railway)**
+- **Sistema de Gerenciamento Escolar (Node.js, Express, Prisma ORM, MySQL, Jest, React, Tailwind CSS e Railway)**
   
   - Descrição: O SIBI é uma solução administrativa projetada para oferecer um gerenciamento abrangente e eficiente de bibliotecas de maneira virtual. Atualmente, na sua versão 2.0 inicial, o SIBI foi criado com o propósito de resolver desafios comuns encontrados nesse contexto e foi desenvolvido como um projeto voluntário em prol da comunidade escolar. Seu principal objetivo é fornecer uma experiência de uso que seja fácil, segura e prática, visando facilitar o acesso e a gestão dos recursos bibliográficos de forma eficaz e intuitiva.
     
