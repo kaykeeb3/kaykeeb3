@@ -65,6 +65,11 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando f
  
   - [Link do Repositório](https://github.com/Kayke-Ti/SIBI_V2/tree/main/api)
 
+- **Responsável por fazer deploy de API's REST (Node.js, Express, Prisma ORM, MySQL, Vercel, Jest e Railway)**
+
+  - Descrição: Minha responsabilidade é garantir o correto funcionamento e a disponibilidade das APIs em produção e desenvolvimento. Utilizo tecnologias como Node.js, Express e Prisma ORM para implementação e manutenção das APIs, além de     realizar testes automatizados utilizando Jest. A integração contínua e o deploy são realizados em plataformas como Vercel e Railway, garantindo uma infraestrutura confiável e escalável.
+    
+   - [Link do Repositório](https://github.com/Kayke-Ti/SIBI_V2/tree/main/api)
  
 ### 📧 Contatos
 
