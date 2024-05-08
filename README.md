@@ -1,10 +1,6 @@
-<div align="center">
-  <h2>Olá, bem-vindo ao meu perfil do GitHub! 👋</h2>
-</div>
-
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando frameworks como Nest.js e Laravel. Contribuí em diversos projetos de sucesso e estou em constante evolução na programação.
+Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando frameworks como Nest.js e Laravel. Com mais de 1 ano de experiência, já contribuí em diversos projetos de sucesso. Sou apaixonado por resolver problemas e sempre busco aprender algo novo. Estou em constante evolução na programação e adoro compartilhar conhecimento com a comunidade de desenvolvedores.
 
 ### 🎓 Educação
 
@@ -14,33 +10,54 @@ Desenvolvedor Back-end especializado em JavaScript (Node.js) e PHP, utilizando f
 
 ### 👾 Habilidades
 
-- **Desenvolvimento Back-end:** Node.js, Nest.js, Laravel, PHP
-- **Desenvolvimento Front-end:** React, Next.js
+- **Back-end:** Node.js, Nest.js, Laravel, PHP
+- **Front-end:** React, Next.js
+- **APIs REST**
+- **Desenvolvimento de websites responsivos**
 - **Metodologias Ágeis:** SCRUM, Kanban
-- **Inteligência Artificial:** Uso da API da OpenAI e Modelos-GPT
+- **Inteligência Artificial:** API da OpenAI e Modelos-GPT
 - **Testes Automatizados:** Jest
 - **Banco de dados:** PostgreSQL, MySQL
-- **Desenvolvimento em Typescript**
+- **Typescript**
 - **Controle de versão:** Git
 - **Computação em Nuvem:** AWS, Railway
 
+### 🛠️ Tecnologias que mais utilizo
+
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="30" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" height="30" width="40">
+</div>
+
 ### 🚀 Projetos Destacados
 
-- **Sistema de Gerenciamento Escolar (Node.js, Express, Prisma ORM, MySQL, Jest, React, Tailwind CSS e Railway)**
+- **Sistema de Gerenciamento Escolar**
   
-  - Descrição: Solução administrativa para gerenciamento eficiente de bibliotecas virtualmente. O projeto visa facilitar o acesso e a gestão dos recursos bibliográficos de forma eficaz e intuitiva.
+  - Descrição: Solução administrativa para gerenciamento abrangente e eficiente de bibliotecas. Criado com o propósito de resolver desafios comuns encontrados nesse contexto, proporcionando uma experiência fácil, segura e prática, facilitando o acesso e a gestão dos recursos bibliográficos.
     
   - [Repositório](https://github.com/Kayke-Ti/SIBI_V2)
  
-- **Automação de um serviço de uma API interna (Node.js, Express, Prisma ORM, MySQL, Jest e Railway)**
+- **Automação de um serviço de uma API interna**
 
-  - Descrição: Automação para gerenciar respostas de requisições em uma aplicação legada que utiliza uma API REST, otimizando custos e tempo de processamento.
+  - Descrição: Automação para gerenciar respostas de requisições em uma aplicação legada que utiliza uma API REST. Otimiza os custos e o tempo envolvido na execução de requisições e consultas ao banco de dados, aumentando a eficiência e eliminando a dependência de serviços externos.
  
   - [Repositório](https://github.com/Kayke-Ti/SIBI_V2/tree/main/api)
 
-- **Deploy de API's REST (Node.js, Express, Prisma ORM, MySQL, AWS, Railway, Jest)**
+- **Responsável por realizar deploy de API's REST**
 
-  - Descrição: Responsável pelo deploy e manutenção de APIs em produção e desenvolvimento, garantindo uma infraestrutura confiável e escalável.
+  - Descrição: Garantia do correto funcionamento e disponibilidade das APIs em produção e desenvolvimento. Utiliza tecnologias como Node.js, Express e Prisma ORM, realizando testes automatizados com Jest, com integração contínua e deploy em plataformas como Vercel e Railway.
     
    - [Repositório](https://github.com/Kayke-Ti/SIBI_V2/tree/main/api)
  
