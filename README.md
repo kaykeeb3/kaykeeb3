@@ -1,10 +1,9 @@
 ## Kayke Barbosa
 
-### Software Developer
 
-Sou desenvolvedor Full-Stack com especialização em _JavaScript_ (Node.js, React.js, React Native). Minha paixão por tecnologia é acompanhada por um forte desejo de compartilhar conhecimento e ajudar outras pessoas.
+Sou desenvolvedor Full-Stack com especialização em _JavaScript_ (Node.js, React.js, React Native). <br/>
 
-Confira meus projetos no GitHub para ver exemplos práticos do meu trabalho e minha capacidade de resolver problemas complexos com criatividade e eficiência.
+Confira meus projetos no GitHub para ver exemplos práticos do meu trabalho e minha capacidade de resolver problemas complexos com criatividade e eficiência. 
 
 <div style="display: flex; gap: 10px;">
   <a href="https://instagram.com/kaykee_bl?igshid=ZDdkNTZiNTM=" target="_blank" style="text-decoration:none;">
