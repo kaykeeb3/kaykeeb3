@@ -1,6 +1,6 @@
 ### Kayke Barbosa
 
-#### Senior Software Developer
+#### Software Developer
 
 Sou desenvolvedor Full-Stack com especialização em _JavaScript_ (Node.js, React.js, React Native). Minha paixão por tecnologia é acompanhada por um forte desejo de compartilhar conhecimento e ajudar outras pessoas.
 
