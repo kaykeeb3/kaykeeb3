@@ -10,6 +10,6 @@ PHP, Docker, Insomnia, Git, GitHub, GitHub Actions, Supabase, Railway, Firebase,
 
 ### Encontre-me aqui 🔍
 🚀 [Site](https://kaykebl-dev.vercel.app/)<br>
-📹 [GitHub](https://github.com/kaykeeb3)<br>
+⚙ [GitHub](https://github.com/kaykeeb3)<br>
 📷 [Instagram](https://instagram.com/kaykee_bl)<br>
 💼 [LinkedIn](https://www.linkedin.com/in/kayke-barbosa-loiola)
