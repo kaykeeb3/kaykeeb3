@@ -1,7 +1,9 @@
 ### Olá, eu sou o Kayke! 👋🏼
 
 Sou desenvolvedor de software com quase 2 anos de experiência em desenvolvimento full-stack. 
-Dedico-me a criar soluções eficientes e inovadoras, com especialização em aplicações web full-stack, desde a concepção até a produção. Meu foco principal é a linguagem _JavaScript_ e seu ecossistema de frameworks e bibliotecas.
+Dedico-me a criar soluções eficientes e inovadoras, com especialização em aplicações web full-stack, desde a concepção até a produção. 
+
+Meu foco principal é a linguagem _JavaScript_ e seu ecossistema de frameworks e bibliotecas.
 
 ### Minha Stack Atual 👨🏻‍💻
 
