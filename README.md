@@ -1,10 +1,10 @@
 # Olá, eu sou o Kayke Barbosa! 👋🏼
 
-Sou desenvolvedor de software com quase 2 anos de experiência em desenvolvimento **full-stack**. 
+Sou desenvolvedor de software com quase 2 anos de experiência em desenvolvimento **full-stack**, focado em entregar soluções eficientes e escaláveis. 
 
-Meu foco é entregar soluções eficientes e escaláveis, utilizando tecnologias modernas para criar interfaces intuitivas e backends robustos. 
+Utilizo **tecnologias modernas** para criar **interfaces intuitivas** e **backends robustos**, sempre aprendendo e me aprimorando constantemente.
 
-Sou apaixonado por resolver problemas e aprender constantemente para aprimorar minhas habilidades.
+---
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -45,15 +45,15 @@ Sou apaixonado por resolver problemas e aprender constantemente para aprimorar m
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=5C4EE5)
 
-## 🚀 &nbsp;Um pouco mais sobre o meu perfil
+---
+
+## 🚀 &nbsp;Um pouco mais sobre mim
 ![Kayke Barbosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaykeeb3&show_icons=true&theme=dracula)
 
 ---
 
-### 🌐 Encontre-me Aqui
-- 🚀 [Meu Site](https://kaykebl-dev.vercel.app/)
+## 🌐 &nbsp;Encontre-me Aqui
+- 🚀 [Meu Portfólio](https://kaykebl-dev.vercel.app/)
 - ⚙ [GitHub](https://github.com/kaykeeb3)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kayke-barbosa-loiola)
 - 📷 [Instagram](https://instagram.com/kaykee_bl)
-
----
