@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Kayke Barbosa!</h1>
 
-<h3 align="left">I'm a software engineer with nearly 2 years of experience in full-stack development, dedicated to building efficient and scalable solutions. I create seamless user interfaces and powerful backends, always learning and refining my skills.</h3>
+<h4 align="left">I'm a software engineer with nearly 2 years of experience in full-stack development, dedicated to building efficient and scalable solutions. I create seamless user interfaces and powerful backends, always learning and refining my skills.</h4>
 
 <br />
 
