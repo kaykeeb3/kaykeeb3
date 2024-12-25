@@ -7,7 +7,7 @@
 I've been programming and tackling challenges since 2022, developing meaningful software and supporting fellow developers in their growth. 💻
 
 - Explore my professional journey on <b><a href="https://www.linkedin.com/in/kayke-barbosa-loiola" target="_blank">LinkedIn</a></b>, and let's connect.
-- Check out my portfolio <b><a href="https://kaykebl-dev.vercel.app/" target="_blank">here</a></b>.
+- Check out my portfolio <b><a href="https://kaykebarbosa.vercel.app/" target="_blank">here</a></b>.
 - Discover my projects and contributions on <b><a href="https://github.com/kaykeeb3" target="_blank">GitHub</a></b>.
 - Follow me on <b><a href="https://instagram.com/kaykee_bl" target="_blank">Instagram</a></b> if you wish.
 
