@@ -1,18 +1,10 @@
-# Hello, I'm Kayke Barbosa! 👋
+# Kayke Barbosa
 
-I'm a **Software Engineer** with nearly 2 years of experience in full-stack development, specializing in building efficient, scalable solutions with intuitive interfaces. I'm always evolving my skills to solve real-world challenges and contribute to meaningful software.
+I'm a Software Engineer with around 2 years of experience in full-stack development, working with technologies like HTML, CSS, JS, TS, Node.js, ReactJS, React Native, Python, PostgreSQL, MongoDB, and more.
 
-🚀 I've been programming since 2022, developing impactful software and continuously improving my knowledge in areas like **cloud solutions, microservices, and automation**.
+I focus on building efficient, scalable solutions with intuitive interfaces. I'm always improving my skills, exploring areas like cloud computing, microservices, and automation to solve real-world challenges.
 
----
+Currently, I work as a web developer and I'm looking for opportunities to collaborate with innovative teams and contribute with my technical experience and passion for development.
 
-### 🌟 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kayke-barbosa-loiola)
-- [Portfolio](https://kaykebarbosa.vercel.app/)
-- [GitHub](https://github.com/kaykeeb3)
-- [Instagram](https://instagram.com/kaykee_bl)
-
----
-
-### 🧠 Main Technologies & Tools  
-JS, TS, Python, PHP, React.js, Node.js, NestJS, Express, HTML, CSS, Tailwind CSS, PostgreSQL, MongoDB, Prisma ORM, GraphQL, Redis, Apache Kafka, AWS, Docker, GitHub Actions, Microservices
+Want to learn more about me and see the projects I've built?  
+Visit my portfolio: [kaykebarbosa.vercel.app](https://kaykebarbosa.vercel.app)
