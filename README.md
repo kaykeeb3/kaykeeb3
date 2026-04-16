@@ -1,7 +1,9 @@
 # Kayke Barbosa
 
-I'm a Software Engineer with approximately two years of full-stack development experience, using technologies such as HTML, CSS, JavaScript, TypeScript, Node.js, ReactJS, React Native, Python, PostgreSQL, MongoDB, and others.
+Engenheiro de Software focado em desenvolvimento full-stack, com experiência na construção de aplicações escaláveis, eficientes e com interfaces intuitivas.
 
-I focus on creating scalable and efficient solutions with intuitive interfaces. I'm constantly improving my skills, exploring areas such as cloud computing, microservices, and automation.
+Tenho aproximadamente dois anos de experiência prática utilizando tecnologias modernas como JavaScript, TypeScript, Node.js, React.js, React Native e Cloudflare.
 
-I currently work as a web developer and seek opportunities to collaborate with innovative teams, contributing my technical expertise and passion for development.
+Busco constantemente evoluir minhas habilidades, explorando áreas como computação em nuvem, microserviços e automação, sempre com foco em entregar soluções de alto valor.
+
+Atualmente atuo como desenvolvedor web e estou aberto a oportunidades para colaborar com equipes inovadoras, contribuindo com minha experiência técnica e paixão por desenvolvimento.
