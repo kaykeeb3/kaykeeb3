@@ -1,61 +1,144 @@
-# 👋 Olá, eu sou o Kayke Barbosa!
+# Kayke Barbosa
 
-💻 AI Engineer & Software Engineer
-🤖 LLMs • AI Agents • RAG • Generative AI & n8n Automations
-📍 Forquilha, Ceará, Brasil
+**AI Engineer | Software Engineer | AI Agents | LLMs | Backend | Integrations | Automation**
 
-## 🧠 Sobre mim
+Engenheiro de Software com foco em Inteligência Artificial, backend, integrações e automação de processos.
 
-Sou Desenvolvedor de Software especializado em desenvolvimento Full Stack e Inteligência Artificial, com foco na criação de aplicações modernas, APIs escaláveis, agentes de IA e automações inteligentes.
+Construo aplicações e sistemas que conectam LLMs, agentes de IA, APIs, CRMs, ERPs, WhatsApp e serviços empresariais, transformando processos complexos em soluções automatizadas e escaláveis.
 
-Atualmente, atuo no desenvolvimento de soluções utilizando Node.js, TypeScript, React, PostgreSQL, Redis e Docker, aplicando boas práticas de engenharia de software para construir sistemas seguros, performáticos e escaláveis. Nos últimos anos, concentrei minha atuação em Inteligência Artificial Generativa, desenvolvendo soluções com LLMs, RAG (Retrieval-Augmented Generation), AI Agents e automações avançadas utilizando n8n, integrando diferentes serviços e APIs para otimizar processos empresariais.
+Minha atuação combina engenharia de software com IA aplicada, utilizando principalmente TypeScript, Node.js, Python, PostgreSQL, Redis, Docker, LLMs, RAG, MCP e n8n.
 
-Minha experiência também inclui a construção de chatbots inteligentes para WhatsApp, integrações complexas entre sistemas, arquiteturas backend robustas e desenvolvimento assistido por IA. Aqui no GitHub, compartilho projetos relacionados a Inteligência Artificial, desenvolvimento Full Stack, automações, APIs e tecnologias que fazem parte da minha evolução profissional.
+Meu foco é construir soluções para ambientes reais de produção: integrações confiáveis, APIs bem estruturadas, automações observáveis e sistemas de IA capazes de executar tarefas reais.
 
-## 🎓 Formação
+---
 
-* 🎓 **Análise e Desenvolvimento de Sistemas (CST)** - Anhanguera Educacional
-* 🎓 **Técnico em Informática** - EEEP Gerardo José Dias de Loiola
-* 🎓 **Curso de Introdução à Programação** - Instituto Politécnico de Tomar
+## Principais Áreas de Atuação
 
-## 🎯 Objetivo
+### AI Engineering
 
-Busco desenvolver soluções inovadoras utilizando Inteligência Artificial, Agentes de IA, LLMs, RAG e automações inteligentes, criando aplicações escaláveis que gerem impacto real para empresas e pessoas, sempre aplicando boas práticas de engenharia de software e tecnologias modernas.
+* Desenvolvimento de AI Agents e aplicações baseadas em LLMs
+* Integração com Claude, Gemini e GPT
+* RAG (Retrieval-Augmented Generation)
+* Tool Calling e integração de ferramentas
+* MCP (Model Context Protocol)
+* Orquestração de agentes e workflows
+* Avaliação e melhoria de aplicações baseadas em LLM
+* Desenvolvimento de aplicações de IA para processos empresariais
 
-## 📫 Contato
+### Backend & APIs
 
-* 📧 **E-mail:** [kaykebarbosadev@gmail.com](mailto:kaykebarbosadev@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/kayke-barbosa-loiola
+* APIs REST com Node.js, TypeScript e Python
+* NestJS e FastAPI
+* Arquiteturas backend escaláveis
+* PostgreSQL e Redis
+* Autenticação, autorização e controle de acesso
+* Filas e processamento assíncrono
+* Webhooks e integrações entre serviços
+* Docker e ambientes de produção
 
-## 💻 Linguagens e Tecnologias
+### Integrações & Automação
 
-<div align="center">
-  <div style="display: inline_block">
+* Integração entre ERPs, CRMs e APIs
+* Integrações com sistemas de telecom
+* APIs REST e SOAP
+* Integrações com WhatsApp e plataformas de atendimento
+* Automação de processos empresariais
+* Workflows com n8n
+* Sincronização e transformação de dados
+* Integração entre sistemas legados e aplicações modernas
 
-  <!-- Desenvolvimento -->
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-  <img align="center" alt="Cloudflare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" />
+### Atendimento com IA
 
-  <!-- IA -->
-  <img align="center" alt="n8n" height="30" width="40" src="https://cdn.simpleicons.org/n8n" />
-  <img align="center" alt="Anthropic (Claude)" height="30" width="40" src="https://cdn.simpleicons.org/anthropic" />
-  <img align="center" alt="Google Gemini" height="30" width="40" src="https://cdn.simpleicons.org/googlegemini" />
-  <img align="center" alt="GitHub Copilot" height="30" width="40" src="https://cdn.simpleicons.org/githubcopilot" />
-  <img align="center" alt="LangChain" height="30" width="40" src="https://cdn.simpleicons.org/langchain" />
+* Chatbots inteligentes para WhatsApp
+* Agentes de IA para atendimento e suporte
+* Automação de processos comerciais e operacionais
+* Integração de IA com CRMs e ERPs
+* Roteamento de conversas e agentes
+* Contexto de atendimento e transferência para equipes humanas
+* Processamento de mensagens, documentos e arquivos
 
-  <!-- Ferramentas -->
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+---
 
-  </div>
-</div>
+## Projetos em Destaque
+
+### AI Agents & LLMs
+
+Projetos relacionados ao desenvolvimento de agentes de IA, LLMs, RAG, automações e integração de modelos com ferramentas externas.
+
+### AI-Powered Customer Service
+
+Soluções de atendimento utilizando WhatsApp, agentes de IA, CRMs, ERPs e automações para automatizar processos de suporte, vendas e operações.
+
+### ERP & CRM Integrations
+
+Integrações entre sistemas empresariais através de APIs REST, SOAP, webhooks e workflows automatizados, conectando dados e processos entre diferentes plataformas.
+
+### Backend Systems
+
+Aplicações backend desenvolvidas com Node.js, TypeScript e Python, utilizando PostgreSQL, Redis, Docker e arquiteturas voltadas para ambientes de produção.
+
+---
+
+## Tecnologias
+
+### Linguagens e Frameworks
+
+* TypeScript
+* JavaScript
+* Python
+* Node.js
+* NestJS
+* FastAPI
+* React
+
+### Inteligência Artificial
+
+* LLMs
+* AI Agents
+* RAG
+* MCP
+* Tool Calling
+* Claude
+* Gemini
+* GPT
+* LangChain
+
+### Dados e Infraestrutura
+
+* PostgreSQL
+* Redis
+* Docker
+* Linux
+* Cloudflare
+
+### Automação e Integrações
+
+* n8n
+* REST APIs
+* SOAP
+* Webhooks
+* WhatsApp APIs
+* CRM
+* ERP
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## Formação
+
+* **Análise e Desenvolvimento de Sistemas (CST)** — Anhanguera Educacional
+* **Técnico em Informática** — EEEP Gerardo José Dias de Loiola
+* **Introdução à Programação** — Instituto Politécnico de Tomar
+
+---
+
+## Contato
+
+* **E-mail:** [kaykebarbosadev@gmail.com](mailto:kaykebarbosadev@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/kayke-barbosa-loiola
+* **GitHub:** https://github.com/kaykeb3
